@@ -1,0 +1,166 @@
+{
+  "config": {
+    "corpus_pair": {
+      "comparison_name": "kjv1611_vs_kjv1769",
+      "left_canon_id": "KJV-1611",
+      "left_label": "KJV-1611",
+      "right_canon_id": "KJV-1769",
+      "right_label": "KJV-1769"
+    },
+    "inlier_background": {
+      "enabled": true,
+      "flagged_annotation_set_label": "FLAGGED",
+      "inlier_annotation_set_label": "INLIER_BACKGROUND",
+      "quantile_bins": 4,
+      "random_seed": 42,
+      "samples_per_stratum": 2
+    },
+    "interpretability": {
+      "category_labels": [
+        "orthographic_character_form",
+        "punctuation_clause_relation",
+        "lexical_substitution",
+        "function_word_change",
+        "pronoun_shift",
+        "negation_modality_change",
+        "word_order_syntactic_shift",
+        "addition_deletion",
+        "multi_factor_complex"
+      ],
+      "delta_near_zero_epsilon": 1e-06,
+      "enable_character_diff": true,
+      "enable_phrase_diff": true,
+      "enable_token_diff": true,
+      "primary_outlier_set_label": "STRONG_OUTLIER",
+      "secondary_outlier_set_label": "REVIEW_CANDIDATE",
+      "top_n_annotated": 200
+    },
+    "outputs": {
+      "alignment_coverage_by_work_csv": "alignment_coverage_by_work.csv",
+      "alignment_exceptions_jsonl": "alignment_exceptions.jsonl",
+      "baseline_gap_indices_by_scope_csv": "baseline_gap_indices_by_scope.csv",
+      "canonical_analysis_records_csv": "canonical_analysis_records.csv",
+      "canonical_analysis_records_parquet": "canonical_analysis_records.parquet",
+      "category_annotation_dataset_csv": "category_annotation_dataset.csv",
+      "category_counts_csv": "category_counts.csv",
+      "category_enrichment_results_csv": "category_enrichment_results.csv",
+      "coverage_summary_csv": "coverage_summary_table.csv",
+      "drift_indices_by_scope_csv": "drift_indices_by_scope.csv",
+      "drift_labels_by_unit_csv": "drift_labels_by_unit.csv",
+      "drift_pairs_csv": "drift_pairs.csv",
+      "drift_pairs_parquet": "drift_pairs.parquet",
+      "exclusive_dataset_inventory_csv": "exclusive_dataset_inventory.csv",
+      "inlier_background_annotation_csv": "inlier_background_annotation.csv",
+      "interpretability_dataset_csv": "interpretability_dataset.csv",
+      "manifest_outputs_json": "manifest_outputs.json",
+      "manifest_run_json": "manifest_run.json",
+      "null_distribution_summary_csv": "null_distribution_summary.csv",
+      "outlier_rankings_csv": "outlier_rankings.csv",
+      "output_root": "/opt/interlink/kjvDataProj/Code/Interlink_Analytics_Grid/studies/drift/outputs",
+      "run_name": "drift_20260610T223724Z",
+      "scope_registry_csv": "scope_registry.csv",
+      "scope_registry_parquet": "scope_registry.parquet",
+      "sensitivity_indices_by_scope_csv": "sensitivity_indices_by_scope.csv",
+      "statistical_diagnostics_by_scope_csv": "statistical_diagnostics_by_scope.csv",
+      "statistical_test_results_csv": "statistical_test_results.csv",
+      "threshold_summary_by_scope_csv": "threshold_summary_by_scope.csv",
+      "top_outliers_annotated_csv": "top_outliers_annotated.csv"
+    },
+    "permutations": {
+      "enable_strict_null": false,
+      "exclude_identity_matches": true,
+      "exploratory_null_scope": "CANON",
+      "exploratory_permutations": 500,
+      "high_rigor_permutations": 10000,
+      "minimum_permutations": 1000,
+      "primary_null_scope": "WORK",
+      "primary_permutations": 5000,
+      "random_seed": 42,
+      "secondary_null_scope": "WORK_GROUP",
+      "strict_null_neighbor_window": 2
+    },
+    "representations": {
+      "r0_experiment_tag": "study1",
+      "r0_name": "R0",
+      "r0_text_field": "text_raw",
+      "r0_used": true,
+      "r0_vector_name": "v_text_raw",
+      "r1_experiment_tag": "study1",
+      "r1_name": "R1",
+      "r1_text_field": "text_norm",
+      "r1_used": true,
+      "r1_vector_name": "v_text_norm",
+      "r2_experiment_tag": "study1",
+      "r2_name": "R2",
+      "r2_text_field": null,
+      "r2_used": false,
+      "r2_vector_name": "v_text_norm_experiment"
+    },
+    "runtime": {
+      "default_stage": "post_annotation",
+      "fail_fast": true,
+      "persist_intermediate_artifacts": true,
+      "verbose": true,
+      "write_csv_exports": true,
+      "write_parquet_exports": true
+    },
+    "thresholds": {
+      "canon_precedence_label": "CANON",
+      "inferential_min_n": 20,
+      "inlier_label": "INLIER",
+      "primary_mad_multiplier": 3.0,
+      "primary_percentile": 99.0,
+      "review_candidate_label": "REVIEW_CANDIDATE",
+      "secondary_mad_multiplier": 2.5,
+      "secondary_percentile": 95.0,
+      "small_sample_n": 50,
+      "strong_outlier_label": "STRONG_OUTLIER",
+      "work_group_precedence_label": "WORK_GROUP",
+      "work_precedence_label": "WORK"
+    },
+    "validation": {
+      "expected_model_id": "ollama:mxbai-embed-large",
+      "log_duplicate_vector_state": true,
+      "log_missing_vector_state": true,
+      "strict_checksum_check": true,
+      "strict_model_check": true
+    }
+  },
+  "metadata": {
+    "active_representations": [
+      {
+        "experiment_tag": "study1",
+        "name": "R0",
+        "text_field": "text_raw",
+        "vector_name": "v_text_raw"
+      },
+      {
+        "experiment_tag": "study1",
+        "name": "R1",
+        "text_field": "text_norm",
+        "vector_name": "v_text_norm"
+      }
+    ],
+    "active_text_fields": [
+      "text_raw",
+      "text_norm"
+    ],
+    "active_vector_names": [
+      "v_text_raw",
+      "v_text_norm"
+    ],
+    "comparison_name": "kjv1611_vs_kjv1769",
+    "generated_at_utc": "2026-06-26T00:58:49.052607+00:00",
+    "left_canon_id": "KJV-1611",
+    "left_label": "KJV-1611",
+    "manifest_schema_version": "1.0",
+    "notes": "Drift study run manifest. Category enrichment requires manually vetted category labels in category_annotation_dataset.csv.",
+    "output_root": "/opt/interlink/kjvDataProj/Code/Interlink_Analytics_Grid/studies/drift/outputs",
+    "platform": "Linux-5.14.0-611.13.1.el9_7.x86_64-x86_64-with-glibc2.34",
+    "python_version": "3.12.13 (main, Jun  1 2026, 00:00:00) [GCC 11.5.0 20240719 (Red Hat 11.5.0-14)]",
+    "right_canon_id": "KJV-1769",
+    "right_label": "KJV-1769",
+    "run_name": "drift_20260610T223724Z",
+    "run_root": "/opt/interlink/kjvDataProj/Code/Interlink_Analytics_Grid/studies/drift/outputs/drift_20260610T223724Z"
+  }
+}

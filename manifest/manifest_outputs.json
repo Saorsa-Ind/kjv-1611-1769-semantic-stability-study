@@ -1,0 +1,253 @@
+{
+  "artifact_count": 27,
+  "artifacts": [
+    {
+      "artifact_key": "alignment_coverage_by_work_csv",
+      "exists": true,
+      "filename": "alignment_coverage_by_work.csv",
+      "modified_at_utc": "2026-06-10T22:37:35.594864+00:00",
+      "path": "/opt/interlink/kjvDataProj/Code/Interlink_Analytics_Grid/studies/drift/outputs/drift_20260610T223724Z/alignment_coverage_by_work.csv",
+      "sha256": "bc20e1fc124193d945e30488d86a0e0cdd402e0598ee64405cb3f0edd26686b9",
+      "size_bytes": 6342
+    },
+    {
+      "artifact_key": "alignment_exceptions_jsonl",
+      "exists": true,
+      "filename": "alignment_exceptions.jsonl",
+      "modified_at_utc": "2026-06-10T22:37:35.677865+00:00",
+      "path": "/opt/interlink/kjvDataProj/Code/Interlink_Analytics_Grid/studies/drift/outputs/drift_20260610T223724Z/alignment_exceptions.jsonl",
+      "sha256": "7ca45e3dad8ef9774cc2fec797f2fdbf9a4814b4585f65b109839b7adca839ee",
+      "size_bytes": 2504487
+    },
+    {
+      "artifact_key": "baseline_gap_indices_by_scope_csv",
+      "exists": true,
+      "filename": "baseline_gap_indices_by_scope.csv",
+      "modified_at_utc": "2026-06-10T23:15:48.633212+00:00",
+      "path": "/opt/interlink/kjvDataProj/Code/Interlink_Analytics_Grid/studies/drift/outputs/drift_20260610T223724Z/baseline_gap_indices_by_scope.csv",
+      "sha256": "61b31055d23c83b49c6152539fdaad378334aba4f025fb02096cfaa55f6c62d3",
+      "size_bytes": 12865
+    },
+    {
+      "artifact_key": "canonical_analysis_records_csv",
+      "exists": true,
+      "filename": "canonical_analysis_records.csv",
+      "modified_at_utc": "2026-06-10T22:37:35.592864+00:00",
+      "path": "/opt/interlink/kjvDataProj/Code/Interlink_Analytics_Grid/studies/drift/outputs/drift_20260610T223724Z/canonical_analysis_records.csv",
+      "sha256": "29488d69771e6ff78359811fb63174ffce529262a97051104b3419fd7e8fe55a",
+      "size_bytes": 57354270
+    },
+    {
+      "artifact_key": "canonical_analysis_records_parquet",
+      "exists": true,
+      "filename": "canonical_analysis_records.parquet",
+      "modified_at_utc": "2026-06-10T22:37:33.638844+00:00",
+      "path": "/opt/interlink/kjvDataProj/Code/Interlink_Analytics_Grid/studies/drift/outputs/drift_20260610T223724Z/canonical_analysis_records.parquet",
+      "sha256": "170f60e9c59db6bc6a866bdb5296cce1d7bd0cb9a81baa643b7926adcbe3e9a7",
+      "size_bytes": 33536332
+    },
+    {
+      "artifact_key": "category_annotation_dataset_csv",
+      "exists": true,
+      "filename": "category_annotation_dataset.csv",
+      "modified_at_utc": "2026-06-25T02:12:26.555831+00:00",
+      "path": "/opt/interlink/kjvDataProj/Code/Interlink_Analytics_Grid/studies/drift/outputs/drift_20260610T223724Z/category_annotation_dataset.csv",
+      "sha256": "fac57fc8fc5c1963dcaff3ba805f2704233bf683d30fe9a2f0396e4968e66f59",
+      "size_bytes": 2598847
+    },
+    {
+      "artifact_key": "category_counts_csv",
+      "exists": true,
+      "filename": "category_counts.csv",
+      "modified_at_utc": "2026-06-26T00:58:49.049894+00:00",
+      "path": "/opt/interlink/kjvDataProj/Code/Interlink_Analytics_Grid/studies/drift/outputs/drift_20260610T223724Z/category_counts.csv",
+      "sha256": "b9d413a38b7644e8ff71ce29cda0e7748d1b9a85b66d72e1e4d19b12425f3ade",
+      "size_bytes": 1000
+    },
+    {
+      "artifact_key": "category_enrichment_results_csv",
+      "exists": true,
+      "filename": "category_enrichment_results.csv",
+      "modified_at_utc": "2026-06-26T00:58:49.050894+00:00",
+      "path": "/opt/interlink/kjvDataProj/Code/Interlink_Analytics_Grid/studies/drift/outputs/drift_20260610T223724Z/category_enrichment_results.csv",
+      "sha256": "281fa07a90c3c44d4f54021c69baafefbb34974c21658b293dc8583d81ba00c8",
+      "size_bytes": 1911
+    },
+    {
+      "artifact_key": "coverage_summary_csv",
+      "exists": true,
+      "filename": "coverage_summary_table.csv",
+      "modified_at_utc": "2026-06-10T22:37:35.593864+00:00",
+      "path": "/opt/interlink/kjvDataProj/Code/Interlink_Analytics_Grid/studies/drift/outputs/drift_20260610T223724Z/coverage_summary_table.csv",
+      "sha256": "e89b85aaafc0d6ef2f7b4ace5a7e21ae5c83ac28cbdd93a6aae26551a6909ab6",
+      "size_bytes": 421
+    },
+    {
+      "artifact_key": "drift_indices_by_scope_csv",
+      "exists": true,
+      "filename": "drift_indices_by_scope.csv",
+      "modified_at_utc": "2026-06-10T22:40:45.902810+00:00",
+      "path": "/opt/interlink/kjvDataProj/Code/Interlink_Analytics_Grid/studies/drift/outputs/drift_20260610T223724Z/drift_indices_by_scope.csv",
+      "sha256": "538162c0bc1e3466b0aeb88489aaccf8cf3361ecec869e9d13330afc4e84dea3",
+      "size_bytes": 30844
+    },
+    {
+      "artifact_key": "drift_labels_by_unit_csv",
+      "exists": true,
+      "filename": "drift_labels_by_unit.csv",
+      "modified_at_utc": "2026-06-10T22:40:48.527837+00:00",
+      "path": "/opt/interlink/kjvDataProj/Code/Interlink_Analytics_Grid/studies/drift/outputs/drift_20260610T223724Z/drift_labels_by_unit.csv",
+      "sha256": "0bfe76e7fee0bcfc35218e22af5caaf448090c93e184a0d71f747020801964ec",
+      "size_bytes": 6627574
+    },
+    {
+      "artifact_key": "drift_pairs_csv",
+      "exists": true,
+      "filename": "drift_pairs.csv",
+      "modified_at_utc": "2026-06-10T22:40:41.698767+00:00",
+      "path": "/opt/interlink/kjvDataProj/Code/Interlink_Analytics_Grid/studies/drift/outputs/drift_20260610T223724Z/drift_pairs.csv",
+      "sha256": "9773c288791880fcd291c54bad13e85bb3262409c9b4ff34abc94e84b4086f6f",
+      "size_bytes": 27079539
+    },
+    {
+      "artifact_key": "drift_pairs_parquet",
+      "exists": true,
+      "filename": "drift_pairs.parquet",
+      "modified_at_utc": "2026-06-10T22:40:40.710757+00:00",
+      "path": "/opt/interlink/kjvDataProj/Code/Interlink_Analytics_Grid/studies/drift/outputs/drift_20260610T223724Z/drift_pairs.parquet",
+      "sha256": "8c2deef4d7776480abddd94ea2afcf45ece1be8d82cf182e9e7c3fa40af6d782",
+      "size_bytes": 13989367
+    },
+    {
+      "artifact_key": "exclusive_dataset_inventory_csv",
+      "exists": true,
+      "filename": "exclusive_dataset_inventory.csv",
+      "modified_at_utc": "2026-06-10T22:37:36.755876+00:00",
+      "path": "/opt/interlink/kjvDataProj/Code/Interlink_Analytics_Grid/studies/drift/outputs/drift_20260610T223724Z/exclusive_dataset_inventory.csv",
+      "sha256": "141a7874e1e8500bcea5de4190e06ce7739211ca94515d831a2efc864d076678",
+      "size_bytes": 3412
+    },
+    {
+      "artifact_key": "inlier_background_annotation_csv",
+      "exists": true,
+      "filename": "inlier_background_annotation.csv",
+      "modified_at_utc": "2026-06-10T23:15:56.393292+00:00",
+      "path": "/opt/interlink/kjvDataProj/Code/Interlink_Analytics_Grid/studies/drift/outputs/drift_20260610T223724Z/inlier_background_annotation.csv",
+      "sha256": "7d76fe95984ad1bd7e630def3c773f60e54466fb41eea05f3b86c1353872f41b",
+      "size_bytes": 698333
+    },
+    {
+      "artifact_key": "interpretability_dataset_csv",
+      "exists": true,
+      "filename": "interpretability_dataset.csv",
+      "modified_at_utc": "2026-06-10T23:15:52.356250+00:00",
+      "path": "/opt/interlink/kjvDataProj/Code/Interlink_Analytics_Grid/studies/drift/outputs/drift_20260610T223724Z/interpretability_dataset.csv",
+      "sha256": "942b2f7419cc7fd70e55751f83a4584ee4d2f4f65aad21fabbea8e0a4d0ced86",
+      "size_bytes": 2069335
+    },
+    {
+      "artifact_key": "manifest_outputs_json",
+      "exists": true,
+      "filename": "manifest_outputs.json",
+      "modified_at_utc": "2026-06-10T23:15:57.072299+00:00",
+      "path": "/opt/interlink/kjvDataProj/Code/Interlink_Analytics_Grid/studies/drift/outputs/drift_20260610T223724Z/manifest_outputs.json",
+      "sha256": "b85e93cc7648fa9935c97afaf302ac9c088b3e1adb810a1dd25b72a555c33396",
+      "size_bytes": 12195
+    },
+    {
+      "artifact_key": "manifest_run_json",
+      "exists": true,
+      "filename": "manifest_run.json",
+      "modified_at_utc": "2026-06-26T00:58:49.054894+00:00",
+      "path": "/opt/interlink/kjvDataProj/Code/Interlink_Analytics_Grid/studies/drift/outputs/drift_20260610T223724Z/manifest_run.json",
+      "sha256": "5257927990d8aab05b67210cbdb573f816f34f323517c8b101a0f52188345f5b",
+      "size_bytes": 6356
+    },
+    {
+      "artifact_key": "null_distribution_summary_csv",
+      "exists": true,
+      "filename": "null_distribution_summary.csv",
+      "modified_at_utc": "2026-06-10T23:15:48.631212+00:00",
+      "path": "/opt/interlink/kjvDataProj/Code/Interlink_Analytics_Grid/studies/drift/outputs/drift_20260610T223724Z/null_distribution_summary.csv",
+      "sha256": "5f717d963ff342c1908d373896ecdfba4474f870d57c37da7ba2e66050091c34",
+      "size_bytes": 22524
+    },
+    {
+      "artifact_key": "outlier_rankings_csv",
+      "exists": false,
+      "filename": "outlier_rankings.csv",
+      "modified_at_utc": null,
+      "path": "/opt/interlink/kjvDataProj/Code/Interlink_Analytics_Grid/studies/drift/outputs/drift_20260610T223724Z/outlier_rankings.csv",
+      "sha256": null,
+      "size_bytes": null
+    },
+    {
+      "artifact_key": "scope_registry_csv",
+      "exists": true,
+      "filename": "scope_registry.csv",
+      "modified_at_utc": "2026-06-10T22:37:24.132747+00:00",
+      "path": "/opt/interlink/kjvDataProj/Code/Interlink_Analytics_Grid/studies/drift/outputs/drift_20260610T223724Z/scope_registry.csv",
+      "sha256": "10ecc4dc24020726b97df87b5f6650c06a3697ab39a35d91a8e4296162999c1f",
+      "size_bytes": 5906
+    },
+    {
+      "artifact_key": "scope_registry_parquet",
+      "exists": true,
+      "filename": "scope_registry.parquet",
+      "modified_at_utc": "2026-06-10T22:37:24.130747+00:00",
+      "path": "/opt/interlink/kjvDataProj/Code/Interlink_Analytics_Grid/studies/drift/outputs/drift_20260610T223724Z/scope_registry.parquet",
+      "sha256": "6059d414d7a6f2366be131f0c582d600af47ae06bd346bd6ed2bc2baf6d7c4ac",
+      "size_bytes": 10682
+    },
+    {
+      "artifact_key": "sensitivity_indices_by_scope_csv",
+      "exists": true,
+      "filename": "sensitivity_indices_by_scope.csv",
+      "modified_at_utc": "2026-06-10T22:40:45.903810+00:00",
+      "path": "/opt/interlink/kjvDataProj/Code/Interlink_Analytics_Grid/studies/drift/outputs/drift_20260610T223724Z/sensitivity_indices_by_scope.csv",
+      "sha256": "4acef621d563eb5fcbd0429a555a6f6262508f98aee9703df01bcdcbb8ab7f1f",
+      "size_bytes": 2616
+    },
+    {
+      "artifact_key": "statistical_diagnostics_by_scope_csv",
+      "exists": true,
+      "filename": "statistical_diagnostics_by_scope.csv",
+      "modified_at_utc": "2026-06-10T23:15:48.681213+00:00",
+      "path": "/opt/interlink/kjvDataProj/Code/Interlink_Analytics_Grid/studies/drift/outputs/drift_20260610T223724Z/statistical_diagnostics_by_scope.csv",
+      "sha256": "6062930e6ac68b6f5baa8e15b7d9265176cbc1195c8afadcc6d7c8d966e08fc9",
+      "size_bytes": 20538
+    },
+    {
+      "artifact_key": "statistical_test_results_csv",
+      "exists": true,
+      "filename": "statistical_test_results.csv",
+      "modified_at_utc": "2026-06-10T23:15:48.678213+00:00",
+      "path": "/opt/interlink/kjvDataProj/Code/Interlink_Analytics_Grid/studies/drift/outputs/drift_20260610T223724Z/statistical_test_results.csv",
+      "sha256": "fbb9e8240f3d7404c707e853c80c3828546041a737d7e15dc8d061c5c98c43c5",
+      "size_bytes": 19193
+    },
+    {
+      "artifact_key": "threshold_summary_by_scope_csv",
+      "exists": true,
+      "filename": "threshold_summary_by_scope.csv",
+      "modified_at_utc": "2026-06-10T22:40:47.910830+00:00",
+      "path": "/opt/interlink/kjvDataProj/Code/Interlink_Analytics_Grid/studies/drift/outputs/drift_20260610T223724Z/threshold_summary_by_scope.csv",
+      "sha256": "503ac557771a90247c3eceaabb723816560ff1484d58bee82d26b87d39215053",
+      "size_bytes": 21971
+    },
+    {
+      "artifact_key": "top_outliers_annotated_csv",
+      "exists": true,
+      "filename": "top_outliers_annotated.csv",
+      "modified_at_utc": "2026-06-10T23:15:52.365250+00:00",
+      "path": "/opt/interlink/kjvDataProj/Code/Interlink_Analytics_Grid/studies/drift/outputs/drift_20260610T223724Z/top_outliers_annotated.csv",
+      "sha256": "770358291f3df45881012974ac09236f32a21314053077a96f15e334fa6077f1",
+      "size_bytes": 221645
+    }
+  ],
+  "artifacts_existing": 26,
+  "artifacts_missing": 1,
+  "generated_at_utc": "2026-06-26T00:58:49.585594+00:00",
+  "manifest_schema_version": "1.0",
+  "run_root": "/opt/interlink/kjvDataProj/Code/Interlink_Analytics_Grid/studies/drift/outputs/drift_20260610T223724Z"
+}
