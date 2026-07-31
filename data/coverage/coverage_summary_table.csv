@@ -1,0 +1,5 @@
+scope_name,works_total,units_total_left,units_total_right,units_structurally_aligned,units_exclusive_left,units_r0_eligible,units_r1_eligible,units_r2_eligible,units_r0_missing,units_r1_missing,units_r2_missing
+ALL_SHARED,66,31102,31102,31102,0,31102,31102,0,0,0,31102
+NT_SHARED,27,7957,7957,7957,0,7957,7957,0,0,0,7957
+OT_SHARED,39,23145,23145,23145,0,23145,23145,0,0,0,23145
+EXCLUSIVE_LEFT,15,5705,0,0,5705,0,0,0,0,0,0
