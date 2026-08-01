@@ -5,6 +5,16 @@ This repository contains the public reproducibility package for the study:
 **Semantic Stability in the King James Bible: Comparing the 1611 and 1769 Editions**  
 *A Human-in-the-Loop Embedding Study of Textual Drift Using the InterLink Research Platform*
 
+## Release Metadata
+
+| Field | Value |
+|---|---|
+| Repository | https://github.com/Saorsa-Ind/kjv-1611-1769-semantic-stability-study |
+| Repository release tag | `Forthcoming` |
+| Zenodo DOI | `Forthcoming` |
+| Run name | `drift_20260610T223724Z` |
+| Citation metadata | `CITATION.cff` |
+
 ## Repository Contents
 
 | Path | Contents |
