@@ -6,7 +6,7 @@ This repository provides the public reproducibility materials for the study:
 *A Human-in-the-Loop Embedding Study of Textual Drift Using the InterLink Research Platform*
 
 Repository: <https://github.com/Saorsa-Ind/kjv-1611-1769-semantic-stability-study>  
-Release tag: v1.0.x  
+Release tag: forthcoming  
 Zenodo DOI: forthcoming
 
 ## Available Materials
