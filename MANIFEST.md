@@ -10,7 +10,7 @@ This repository contains the public reproducibility package for the study:
 | Field | Value |
 |---|---|
 | Repository | https://github.com/Saorsa-Ind/kjv-1611-1769-semantic-stability-study |
-| Repository release tag | `Forthcoming` |
+| Repository release tag | `v1.0.0` |
 | Zenodo DOI | `Forthcoming` |
 | Run name | `drift_20260610T223724Z` |
 | Citation metadata | `CITATION.cff` |
