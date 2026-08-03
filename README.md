@@ -40,10 +40,10 @@ The proprietary InterLink Research Platform source code is not included in this 
 
 The archived release DOI and version tag should be used when citing the final study package.
 
-## Citation
+## Citation / Release
 
-DOI: forthcoming  
-Release tag: forthcoming
+DOI: The archival DOI will be provided by the Zenodo record associated with this release.   
+Release tag: v1.0.0
 
 ## License
 
