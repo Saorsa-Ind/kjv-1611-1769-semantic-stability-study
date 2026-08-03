@@ -56,7 +56,7 @@
       "manifest_run_json": "manifest_run.json",
       "null_distribution_summary_csv": "null_distribution_summary.csv",
       "outlier_rankings_csv": "outlier_rankings.csv",
-      "output_root": "/opt/interlink/kjvDataProj/Code/Interlink_Analytics_Grid/studies/drift/outputs",
+      "output_root": "data/",
       "run_name": "drift_20260610T223724Z",
       "scope_registry_csv": "scope_registry.csv",
       "scope_registry_parquet": "scope_registry.parquet",
@@ -155,12 +155,12 @@
     "left_label": "KJV-1611",
     "manifest_schema_version": "1.0",
     "notes": "Drift study run manifest. Category enrichment requires manually vetted category labels in category_annotation_dataset.csv.",
-    "output_root": "/opt/interlink/kjvDataProj/Code/Interlink_Analytics_Grid/studies/drift/outputs",
+    "output_root": "data/",
     "platform": "Linux-5.14.0-611.13.1.el9_7.x86_64-x86_64-with-glibc2.34",
     "python_version": "3.12.13 (main, Jun  1 2026, 00:00:00) [GCC 11.5.0 20240719 (Red Hat 11.5.0-14)]",
     "right_canon_id": "KJV-1769",
     "right_label": "KJV-1769",
     "run_name": "drift_20260610T223724Z",
-    "run_root": "/opt/interlink/kjvDataProj/Code/Interlink_Analytics_Grid/studies/drift/outputs/drift_20260610T223724Z"
+    "run_root": "/drift_20260610T223724Z"
   }
 }
