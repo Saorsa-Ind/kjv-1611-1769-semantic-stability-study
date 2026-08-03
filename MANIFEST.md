@@ -5,6 +5,8 @@ This repository contains the public reproducibility package for the study:
 **Semantic Stability in the King James Bible: Comparing the 1611 and 1769 Editions**  
 *A Human-in-the-Loop Embedding Study of Textual Drift Using the InterLink Research Platform*
 
+Absolute local execution paths in generated manifest files were redacted or normalized to repository relative paths before public release. Repository relative paths are authoritative for the archived reproducibility package.
+
 ## Release Metadata
 
 | Field | Value |
