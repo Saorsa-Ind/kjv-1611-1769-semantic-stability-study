@@ -7,7 +7,7 @@ authors:
     affiliation: "Saorsa Industries"
 abstract: "Reproducibility package for a human-in-the-loop embedding study of semantic stability between the KJV 1611 and KJV 1769 editions."
 version: "1.0.0"
-date-released: "2026-07-31"
+date-released: "2026-08-03"
 repository-code: "https://github.com/Saorsa-Ind/kjv-1611-1769-semantic-stability-study"
 url: "https://github.com/Saorsa-Ind/kjv-1611-1769-semantic-stability-study"
 keywords:
