@@ -2,7 +2,7 @@ cff-version: 1.2.0
 message: "If you use these study artifacts, notebooks, figures, or documentation, please cite this repository."
 type: dataset
 title: "Semantic Stability in the King James Bible: Comparing the 1611 and 1769 Editions"
-version: "1.0.1"
+version: "1.0.0"
 abstract: "Reproducibility package for a human-in-the-loop embedding study of semantic stability between the KJV 1611 and KJV 1769 editions."
 authors:
   - family-names: "Lewis"
@@ -20,6 +20,6 @@ keywords:
   - "human-in-the-loop"
 license: "CC-BY-4.0"
 repository-code: "https://github.com/Saorsa-Ind/kjv-1611-1769-semantic-stability-study"
-url: "https://github.com/Saorsa-Ind/kjv-1611-1769-semantic-stability-study/releases/tag/v1.0.1"
+url: "https://github.com/Saorsa-Ind/kjv-1611-1769-semantic-stability-study/releases/tag/v1.0.0"
 
 
