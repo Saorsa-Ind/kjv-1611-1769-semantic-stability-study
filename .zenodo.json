@@ -1,0 +1,27 @@
+{
+  "title": "Semantic Stability in the King James Bible: Comparing the 1611 and 1769 Editions",
+  "upload_type": "dataset",
+  "publication_date": "2026-08-03",
+  "version": "1.0.0",
+  "description": "Public reproducibility package for a human-in-the-loop embedding study of semantic stability between the KJV 1611 and KJV 1769 editions. The repository includes the finalized manuscript, generated study outputs, figures, architecture documentation, manifest files, annotation datasets, and validation materials. The proprietary InterLink Research Platform source code is not publicly released. Code and notebooks are licensed under MIT; research artifacts, manuscript materials, figures, documentation, manifest files, and generated study outputs are licensed under CC BY 4.0 unless otherwise noted.",
+  "creators": [
+    {
+      "name": "Lewis, Jamison",
+      "affiliation": "Saorsa Industries LLC"
+    }
+  ],
+  "access_right": "open",
+  "license": "cc-by-4.0",
+  "language": "eng",
+  "keywords": [
+    "King James Version",
+    "KJV 1611",
+    "KJV 1769",
+    "semantic stability",
+    "semantic drift",
+    "embeddings",
+    "digital humanities",
+    "computational theology",
+    "human-in-the-loop"
+  ]
+}
