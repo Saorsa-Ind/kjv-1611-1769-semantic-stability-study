@@ -10,7 +10,7 @@ The repository provides the generated study outputs, figures, architecture docum
 
 ## Read the Paper
 
-**Paper PDF:** [Semantic Stability in the King James Bible: Comparing the 1611 and 1769 Editions](manuscript/YOUR_FINAL_PAPER_FILENAME.pdf)
+**Paper PDF:** [Semantic Stability in the King James Bible: Comparing the 1611 and 1769 Editions](manuscript/Measuring Semantic Stability Between KJV 1611 and KJV 1769.pdf)
 
 **Archived reproducibility package:** https://doi.org/10.5281/zenodo.21782304
 
