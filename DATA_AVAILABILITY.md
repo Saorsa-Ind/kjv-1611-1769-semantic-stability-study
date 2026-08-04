@@ -7,7 +7,7 @@ This repository provides the public reproducibility materials for the study:
 
 Repository: <https://github.com/Saorsa-Ind/kjv-1611-1769-semantic-stability-study>  
 Release tag: `v1.0.0`  
-Zenodo DOI: forthcoming
+Zenodo DOI: https://doi.org/10.5281/zenodo.21782304
 
 ## Available Materials
 
