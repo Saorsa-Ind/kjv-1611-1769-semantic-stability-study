@@ -8,6 +8,12 @@ This repository supports the study *Semantic Stability in the King James Bible: 
 
 The repository provides the generated study outputs, figures, architecture documents, notebook materials, and reproducibility metadata used to audit and reproduce the reported manuscript findings.
 
+## Read the Paper
+
+**Paper PDF:** [Semantic Stability in the King James Bible: Comparing the 1611 and 1769 Editions](manuscript/YOUR_FINAL_PAPER_FILENAME.pdf)
+
+**Archived reproducibility package:** https://doi.org/10.5281/zenodo.21782304
+
 ## Repository Contents
 
 ```text
