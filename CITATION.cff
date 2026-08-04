@@ -4,6 +4,7 @@ type: dataset
 title: "Semantic Stability in the King James Bible: Comparing the 1611 and 1769 Editions"
 version: "1.0.0"
 abstract: "Reproducibility package for a human-in-the-loop embedding study of semantic stability between the KJV 1611 and KJV 1769 editions."
+doi: "10.5281/zenodo.21782304"
 authors:
   - family-names: "Lewis"
     given-names: "Jamison"
