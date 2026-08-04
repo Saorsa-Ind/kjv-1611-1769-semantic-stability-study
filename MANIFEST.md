@@ -13,7 +13,7 @@ Absolute local execution paths in generated manifest files were redacted or norm
 |---|---|
 | Repository | https://github.com/Saorsa-Ind/kjv-1611-1769-semantic-stability-study |
 | Repository release tag | `v1.0.0` |
-| Zenodo DOI | `Forthcoming` |
+| Zenodo DOI | https://doi.org/10.5281/zenodo.21782304 |
 | Run name | `drift_20260610T223724Z` |
 | Citation metadata | `CITATION.cff` |
 
