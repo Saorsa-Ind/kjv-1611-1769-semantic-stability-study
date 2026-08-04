@@ -43,6 +43,7 @@ The archived release DOI and version tag should be used when citing the final st
 ## Citation / Release
 
 Zenodo DOI: `https://doi.org/10.5281/zenodo.21782304`
+
 Release tag: `v1.0.0`
 
 ## License
